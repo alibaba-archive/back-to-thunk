@@ -1,0 +1,31 @@
+{
+  "name": "back-to-thunk",
+  "version": "0.0.0",
+  "description": "transform generator, generatorFunction, promise and other yieldables back to thunk",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "files": ["index.js"],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dead-horse/back-to-thunk.git"
+  },
+  "keywords": [
+    "co",
+    "flow",
+    "thunk",
+    "generator",
+    "yieldables"
+  ],
+  "author": "dead_horse <dead_horse@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dead-horse/back-to-thunk/issues"
+  },
+  "homepage": "https://github.com/dead-horse/back-to-thunk",
+  "dependencies": {
+    "co": "^3.0.0",
+    "is-type-of": "^0.0.1"
+  }
+}
