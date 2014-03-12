@@ -1,6 +1,6 @@
 {
   "name": "back-to-thunk",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "transform generator, generatorFunction, promise and other yieldables back to thunk",
   "main": "index.js",
   "scripts": {
